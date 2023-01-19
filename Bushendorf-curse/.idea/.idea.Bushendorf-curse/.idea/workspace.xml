@@ -28,10 +28,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Tools/GaiaPro2021/Procedural Worlds/Gaia/Scripts/Editor/GaiaManagerEditor.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Materials/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tools/GaiaPro2021/Procedural Worlds/Gaia/Scripts/Editor/GaiaManagerEditor.cs" />
       </list>
     </option>
   </component>
@@ -77,6 +81,7 @@
       <updated>1674092653104</updated>
       <workItem from="1674092656866" duration="32000" />
       <workItem from="1674094166741" duration="598000" />
+      <workItem from="1674096717770" duration="606000" />
     </task>
     <servers />
   </component>
