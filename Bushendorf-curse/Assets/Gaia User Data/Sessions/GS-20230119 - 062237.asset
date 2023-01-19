@@ -29,7 +29,260 @@ MonoBehaviour:
   m_previewImageBytes: 
   m_previewImageWidth: 0
   m_previewImageHeight: 0
-  m_operations: []
-  m_terrainMinMaxCache: []
-  m_bakedMaskCacheEntries: []
+  m_operations:
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 1024'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 071915
+    m_operationDateTime: 19.01.2023 7:19:16
+    scriptableObjectAssetGUID: 26890430817df8548a52233606c7a28a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Updating World To: 1 x 1 tiles, tile size: 1024'
+    m_operationType: 14
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 19.01.2023 7:20:44
+    scriptableObjectAssetGUID: 39706517fc39ad948b99567f67c412d2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Updating World To: 1 x 1 tiles, tile size: 1024'
+    m_operationType: 14
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 19.01.2023 7:21:15
+    scriptableObjectAssetGUID: e3cc777edba5a8441a2ff7db23da6da5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Updating World To: 1 x 1 tiles, tile size: 1024'
+    m_operationType: 14
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 19.01.2023 7:21:41
+    scriptableObjectAssetGUID: 64280f6eae032504a9b342162f36221b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Island 2
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 071915
+    m_operationDateTime: 19.01.2023 7:26:55
+    scriptableObjectAssetGUID: ecaa7eda05d13d648a5fbf2f6b1b31c0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Texture(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 071915
+    m_operationDateTime: 19.01.2023 7:26:56
+    scriptableObjectAssetGUID: 257aa47eb4299a149becf4c42cf2916e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 071915
+    m_operationDateTime: 19.01.2023 7:33:47
+    scriptableObjectAssetGUID: 67ae0f27be03c5448a7d170a73db8571
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (5)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 071915
+    m_operationDateTime: 19.01.2023 7:35:26
+    scriptableObjectAssetGUID: f5a21a959cc65ac4e8b79d6a661efecc
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (5)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 071915
+    m_operationDateTime: 19.01.2023 7:38:16
+    scriptableObjectAssetGUID: 4292c25f76f76d84192d6021373d9b91
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 071915
+    m_operationDateTime: 19.01.2023 7:39:36
+    scriptableObjectAssetGUID: 4717567db3073674d89223ddc4eba31a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Updating World To: 1 x 1 tiles, tile size: 128'
+    m_operationType: 14
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 19.01.2023 7:40:47
+    scriptableObjectAssetGUID: d3c29cc6592ff9340b238538faaa100e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Updating World To: 1 x 1 tiles, tile size: 1024'
+    m_operationType: 14
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 19.01.2023 7:41:55
+    scriptableObjectAssetGUID: fb0a47c5be64cae4b913385ba9ec077f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 19.01.2023 7:43:15
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 512'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 074315
+    m_operationDateTime: 19.01.2023 7:43:16
+    scriptableObjectAssetGUID: 7c92d2ef02cf1034893ec9adac86a153
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 074315
+    m_operationDateTime: 19.01.2023 7:44:12
+    scriptableObjectAssetGUID: ffc028ee10670584d8f42e18e2ac5266
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 9057e0ace89eb584791debfe184addd8
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 48.906998
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 28.056763
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_0_0-20230119 - 074315_LayerGameObject_3584_12
+    assetPath: Assets/Tools/GaiaPro2021/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119
+      - 074315/Terrain_0_0-20230119 - 074315_LayerGameObject_3584_12
+    fullPath: C:/DevelopGames/Bushendorf-curse/Bushendorf-curse/Assets/Tools/GaiaPro2021/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119 - 074315/Terrain_0_0-20230119
+      - 074315_LayerGameObject_3584_12
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230119 - 074315_LayerTree_3584_5
+    assetPath: Assets/Tools/GaiaPro2021/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119
+      - 074315/Terrain_0_0-20230119 - 074315_LayerTree_3584_5
+    fullPath: C:/DevelopGames/Bushendorf-curse/Bushendorf-curse/Assets/Tools/GaiaPro2021/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119 - 074315/Terrain_0_0-20230119
+      - 074315_LayerTree_3584_5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230119 - 074315_LayerGameObject_3584_2,5
+    assetPath: Assets/Tools/GaiaPro2021/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119
+      - 074315/Terrain_0_0-20230119 - 074315_LayerGameObject_3584_2,5
+    fullPath: C:/DevelopGames/Bushendorf-curse/Bushendorf-curse/Assets/Tools/GaiaPro2021/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119 - 074315/Terrain_0_0-20230119
+      - 074315_LayerGameObject_3584_2,5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230119 - 074315_LayerGameObject_2560_-0,5
+    assetPath: Assets/Tools/GaiaPro2021/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119
+      - 074315/Terrain_0_0-20230119 - 074315_LayerGameObject_2560_-0,5
+    fullPath: C:/DevelopGames/Bushendorf-curse/Bushendorf-curse/Assets/Tools/GaiaPro2021/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119 - 074315/Terrain_0_0-20230119
+      - 074315_LayerGameObject_2560_-0,5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230119 - 074315_LayerGameObject_512_2
+    assetPath: Assets/Tools/GaiaPro2021/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119
+      - 074315/Terrain_0_0-20230119 - 074315_LayerGameObject_512_2
+    fullPath: C:/DevelopGames/Bushendorf-curse/Bushendorf-curse/Assets/Tools/GaiaPro2021/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119 - 074315/Terrain_0_0-20230119
+      - 074315_LayerGameObject_512_2
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230119 - 074315_LayerGameObject_3584_2
+    assetPath: Assets/Tools/GaiaPro2021/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119
+      - 074315/Terrain_0_0-20230119 - 074315_LayerGameObject_3584_2
+    fullPath: C:/DevelopGames/Bushendorf-curse/Bushendorf-curse/Assets/Tools/GaiaPro2021/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119 - 074315/Terrain_0_0-20230119
+      - 074315_LayerGameObject_3584_2
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230119 - 074315_LayerTree_3584_-0,2
+    assetPath: Assets/Tools/GaiaPro2021/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119
+      - 074315/Terrain_0_0-20230119 - 074315_LayerTree_3584_-0,2
+    fullPath: C:/DevelopGames/Bushendorf-curse/Bushendorf-curse/Assets/Tools/GaiaPro2021/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119 - 074315/Terrain_0_0-20230119
+      - 074315_LayerTree_3584_-0,2
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230119 - 074315_LayerGameObject_3584_1,5
+    assetPath: Assets/Tools/GaiaPro2021/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119
+      - 074315/Terrain_0_0-20230119 - 074315_LayerGameObject_3584_1,5
+    fullPath: C:/DevelopGames/Bushendorf-curse/Bushendorf-curse/Assets/Tools/GaiaPro2021/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119 - 074315/Terrain_0_0-20230119
+      - 074315_LayerGameObject_3584_1,5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230119 - 074315_LayerGameObject_3584_1
+    assetPath: Assets/Tools/GaiaPro2021/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119
+      - 074315/Terrain_0_0-20230119 - 074315_LayerGameObject_3584_1
+    fullPath: C:/DevelopGames/Bushendorf-curse/Bushendorf-curse/Assets/Tools/GaiaPro2021/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119 - 074315/Terrain_0_0-20230119
+      - 074315_LayerGameObject_3584_1
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230119 - 074315_LayerGameObject_3584_0,5
+    assetPath: Assets/Tools/GaiaPro2021/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119
+      - 074315/Terrain_0_0-20230119 - 074315_LayerGameObject_3584_0,5
+    fullPath: C:/DevelopGames/Bushendorf-curse/Bushendorf-curse/Assets/Tools/GaiaPro2021/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119 - 074315/Terrain_0_0-20230119
+      - 074315_LayerGameObject_3584_0,5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230119 - 074315_LayerTree_1024_0
+    assetPath: Assets/Tools/GaiaPro2021/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119
+      - 074315/Terrain_0_0-20230119 - 074315_LayerTree_1024_0
+    fullPath: C:/DevelopGames/Bushendorf-curse/Bushendorf-curse/Assets/Tools/GaiaPro2021/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119 - 074315/Terrain_0_0-20230119
+      - 074315_LayerTree_1024_0
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230119 - 074315_LayerTree_2048_0
+    assetPath: Assets/Tools/GaiaPro2021/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119
+      - 074315/Terrain_0_0-20230119 - 074315_LayerTree_2048_0
+    fullPath: C:/DevelopGames/Bushendorf-curse/Bushendorf-curse/Assets/Tools/GaiaPro2021/Procedural
+      Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230119 - 074315/Terrain_0_0-20230119
+      - 074315_LayerTree_2048_0
+    texture: {fileID: 0}
   m_worldBiomeMaskSettings: {fileID: 0}
