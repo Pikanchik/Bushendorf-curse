@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20230119 - 211932
+  m_EditorClassIdentifier: 
+  m_name: Session 20230119-211932
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 19.01.2023 21:19:32
+  m_terrainWidth: 1024
+  m_terrainDepth: 1024
+  m_terrainHeight: 1024
+  m_seaLevel: 25
+  m_spawnDensity: 1
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 1024'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 211932
+    m_operationDateTime: 19.01.2023 21:19:32
+    scriptableObjectAssetGUID: 7ddfc21922c58234586c775289dee651
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Island 2
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 211932
+    m_operationDateTime: 19.01.2023 21:22:57
+    scriptableObjectAssetGUID: a9d6885d127824c4f9706162dafbd1b0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 211932
+    m_operationDateTime: 19.01.2023 21:22:59
+    scriptableObjectAssetGUID: 06f2785d923b29145a3b597df0842188
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Mesa 1
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 211932
+    m_operationDateTime: 19.01.2023 21:35:52
+    scriptableObjectAssetGUID: 483f9d0887cc01940ba0fd294cfb0350
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 211932
+    m_operationDateTime: 19.01.2023 21:35:54
+    scriptableObjectAssetGUID: b1cd74e5b981935429411d916a54f63e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 1024'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 213658
+    m_operationDateTime: 19.01.2023 21:36:58
+    scriptableObjectAssetGUID: d8f20b509bd3b124eb366d4486f83646
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Island 1
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 213658
+    m_operationDateTime: 19.01.2023 21:38:18
+    scriptableObjectAssetGUID: 53386d2fae144e742a7677aff7c572d9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 213658
+    m_operationDateTime: 19.01.2023 21:38:20
+    scriptableObjectAssetGUID: 6d6400c20b32e514d86e5b643f94ca7d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Island 1
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 213658
+    m_operationDateTime: 19.01.2023 22:09:54
+    scriptableObjectAssetGUID: a4e4205ee8fda24409a2dc89b228ca30
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (12)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230119 - 213658
+    m_operationDateTime: 19.01.2023 22:51:26
+    scriptableObjectAssetGUID: 49bf4957e32b3cc4bb4ebca6a825737b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 1446aa8e6e256b74cb479f21aa3e7348
+    isWorldmap: 0
+    recalculate: 0
+    min: 10.000153
+    max: 112.40797
+  - guid: f8bce5b42cc5bf74a89d5fd9ab06133e
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 136.93959
+  m_bakedMaskCacheEntries: []
+  m_worldBiomeMaskSettings: {fileID: 0}
